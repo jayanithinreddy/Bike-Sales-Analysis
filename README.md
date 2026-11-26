@@ -63,7 +63,7 @@ The dashboard provides an interactive view of customer purchasing behaviour thro
 - Converting raw data into meaningful business insights.
 
 ## 👨‍💻 Author
-**JayanithinReddy**
+**Jaya Nithin Reddy**
 GitHub: [@jayanithinreddy](https://github.com/jayanithinreddy)
 
 
